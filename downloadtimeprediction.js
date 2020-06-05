@@ -50,5 +50,5 @@ model.compile({
 (async function(){
     await model.fit(trainTensors.sizeMB,
         trainTensors.timeSec,
-        {epochs : 10});
+        {epochs : 1000});
 })();
