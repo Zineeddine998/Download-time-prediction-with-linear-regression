@@ -1,0 +1,22 @@
+{
+  "name": "untitled4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downloadtimeprediction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zineeddine998/Download-time-prediction-with-deep-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zineeddine998/Download-time-prediction-with-deep-learning/issues"
+  },
+  "homepage": "https://github.com/Zineeddine998/Download-time-prediction-with-deep-learning#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.0.0"
+  }
+}
